@@ -1,0 +1,6 @@
+{
+  "name": "Remote Compose",
+  "description": "Минималистичная полноэкранная интерактивная презентация о технологии Remote Compose для проектора 16:9.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
